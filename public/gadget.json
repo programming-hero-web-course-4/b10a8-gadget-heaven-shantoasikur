@@ -1,0 +1,200 @@
+[
+    {
+        "product_id": "P001",
+        "product_title": "The Best Desktop Computer",
+        "product_image": "https://www.hellotech.com/blog/wp-content/uploads/2020/10/best-desktop-computers-1-1280x720.jpg",
+        "category": "Computers",
+        "price": 1400,
+        "description": "A sleek and powerful desktop with 16GB RAM and 512GB SSD.",
+        "Specification": ["16GB RAM", "512GB SSD", "Intel i7 Processor", "14 inch Full HD Display"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Gaming Laptop Pro",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Lenovo-Legion-Pro-5i-9.jpg",
+        "category": "Computers",
+        "price": 600,
+        "description": "High-performance gaming laptop with dedicated graphics card.",
+        "Specification": ["32GB RAM", "1TB SSD", "NVIDIA GTX 3060", "17 inch 144Hz Display"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Ultrabook X",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Acer-Swift-3-12-jpg.webp",
+        "category": "Computers",
+        "price": 450,
+        "description": "Lightweight ultrabook with excellent battery life and fast performance.",
+        "Specification": ["16GB RAM", "512GB SSD", "Intel i5 Processor", "13 inch Retina Display"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "P004",
+        "product_title": "IPhone 16 Pro Max",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-16-Pro-Max---16-Pro-Natural-Titanium-3560.jpg",
+        "category": "Phones",
+        "price": 1288,
+        "description": "High-end smartphone with an advanced camera system.",
+        "Specification": ["128GB Storage", "8GB RAM", "Tripple Camera", "6.7 inch OLED Display"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P005",
+        "product_title": "Affordable Smartphone",
+        "product_image": "https://149367133.v2.pressablecdn.com/wp-content/uploads/2022/12/best-budget-smartphones-2022.jpg",
+        "category": "Phones",
+        "price": 180,
+        "description": "Budget-friendly smartphone with good performance.",
+        "Specification": ["64GB Storage", "4GB RAM", "Dual Camera", "6.1 inch LCD Display"],
+        "availability": true,
+        "rating": 4.1
+    },
+    {
+        "product_id": "P006",
+        "product_title": "Smartphone Mini",
+        "product_image": "https://m.media-amazon.com/images/I/61s0IaMcKtL.jpg",
+        "category": "Phones",
+        "price": 200,
+        "description": "Compact smartphone with excellent performance in a small size.",
+        "Specification": ["128GB Storage", "6GB RAM", "Triple Camera", "5.4 inch OLED Display"],
+        "availability": false,
+        "rating": 4.3
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Smart Watch Series 6",
+        "product_image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_delivers-apple-watch-series-6_09152020_big.jpg.large.jpg",
+        "category": "Smart Watches",
+        "price": 250,
+        "description": "Advanced smartwatch with health tracking and notifications.",
+        "Specification": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "Water Resistant"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P008",
+        "product_title": "Smart Watch Lite",
+        "product_image": "https://ae01.alicdn.com/kf/S5ecc1b502403474ba811bea25a933cdet/Mibro-Lite2-Smartwatch-k-resel-s-r-m-HD-Bluetooth-arayarak-1-3-in-AMOLED-ekran.jpg",
+        "category": "Smart Watches",
+        "price": 100,
+        "description": "Affordable smartwatch with essential fitness tracking features.",
+        "Specification": ["Heart Rate Monitor", "Step Counter", "Water Resistant", "Customizable Watch Faces"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "P009",
+        "product_title": "Power Bank Ultra",
+        "product_image": "https://m.media-amazon.com/images/I/51zbwQ65j6L._AC_SL1500_.jpg",
+        "category": "Power Banks",
+        "price": 82,
+        "description": "High-capacity power bank with fast charging support.",
+        "Specification": ["20000mAh", "USB-C PD", "Dual USB Output", "LED Indicator"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P010",
+        "product_title": "Mini Power Bank",
+        "product_image": "https://img.cf.rokomari.com/ProductNew20190903/260X372/Mini_Portable_Power_Bank-Non_Brand-c36f7-345226.jpg",
+        "category": "Power Banks",
+        "price": 71,
+        "description": "Portable power bank with compact design and quick charging.",
+        "Specification": ["10000mAh", "USB-A Output", "LED Indicator", "Compact Design"],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": "P011",
+        "product_title": "Wireless Charger Pad",
+        "product_image": "https://img.drz.lazcdn.com/static/bd/p/02328109044094eabdf1a14b665846c9.jpg_720x720q80.jpg",
+        "category": "Chargers",
+        "price": 61,
+        "description": "Sleek wireless charger compatible with Qi-enabled devices.",
+        "Specification": ["10W Fast Charge", "Overheat Protection", "LED Indicator", "Qi Compatibility"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P012",
+        "product_title": "Dual Port Fast Charger",
+        "product_image": "https://alflip.com/uploads/all/1687092928_JOYROOM%20JP-QP207%2020W%20Dual%20Port%20PD+QC3.0%20Mini%20Fast%20Charger%20Adapter.webp",
+        "category": "Chargers",
+        "price": 51,
+        "description": "Fast wall charger with dual USB ports for simultaneous charging.",
+        "Specification": ["18W Output", "Overcurrent Protection", "Compact Design", "Dual Port"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "P013",
+        "product_title": "Car Charger Pro",
+        "product_image": "https://www.gadstyle.com/wp-content/uploads/2024/08/baseus-car-charger-high-efficiency-pro-1-for-2-car-cigarette-lighter-with-30w-usb-c-usb-a-port-5.webp",
+        "category": "Chargers",
+        "price": 52,
+        "description": "Car charger with dual USB ports and fast charging capability.",
+        "Specification": ["Quick Charge 3.0", "Dual USB", "LED Light", "Overvoltage Protection"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P014",
+        "product_title": "Advanced Power Bank",
+        "product_image": "https://m.media-amazon.com/images/I/61XabIHDDbL.jpg",
+        "category": "Power Banks",
+        "price": 65,
+        "description": "High-capacity power bank with wireless charging and multiple ports.",
+        "Specification": ["25000mAh", "Wireless Charging", "USB-C & USB-A", "LED Display"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P015",
+        "product_title": "Waterproof Smart Watch",
+        "product_image": "https://www.primebazar.com/public/uploads/all/g8vFbXRFw5JNeNmlP1u776abIHKv24RjgaeXBAz0.jpg",
+        "category": "Smart Watches",
+        "price": 120,
+        "description": "Durable smartwatch with waterproof design and fitness features.",
+        "Specification": ["GPS", "Heart Rate Monitor", "Waterproof", "Battery Life 14 Days"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P016",
+        "product_title": "Workstation PC",
+        "product_image": "https://www.dantecdynamics.com/wp-content/uploads/2019/10/PC-workstation-DSC_1744.jpg",
+        "category": "Computers",
+        "price": 1000,
+        "description": "Powerful workstation with high-end specs for professional use.",
+        "Specification": ["64GB RAM", "2TB SSD", "Intel Xeon Processor", "27 inch 4K Display"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P017",
+        "product_title": "Portable Gaming PC",
+        "product_image": "https://i.ytimg.com/vi/prsmP0rWz6o/maxresdefault.jpg",
+        "category": "Computers",
+        "price": 800,
+        "description": "Compact gaming PC with high performance, perfect for portability.",
+        "Specification": ["16GB RAM", "1TB SSD", "AMD Ryzen 7", "RTX 3070 Graphics"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P018",
+        "product_title": "Budget-Friendly Laptop",
+        "product_image": "https://i.pcmag.com/imagery/reviews/03CbYr8CuLjFHV96Tl9URVt-1..v1690915647.jpg",
+        "category": "Computers",
+        "price": 300,
+        "description": "Affordable laptop suitable for daily tasks and light usage.",
+        "Specification": ["8GB RAM", "256GB SSD", "Intel i3 Processor", "15.6 inch Display"],
+        "availability": true,
+        "rating": 4.2
+    }    
+]
